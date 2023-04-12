@@ -1,0 +1,13 @@
+# some more ls aliases
+# alias ll='ls -alF'
+alias ll='ls -l'
+alias la='ls -A'
+alias l='ls -CF'
+alias lh='ls -alhs'
+alias la='ls -A'
+alias cd..='cd ..'
+alias ..='cd ..'
+alias lsd='ls -d */'
+alias tidy_='tidy -indent --indent-with-tabs yes --tidy-mark no --quiet yes -m'
+alias sur='su - root'
+alias transparency='transset -a 0.8 > /dev/null'
