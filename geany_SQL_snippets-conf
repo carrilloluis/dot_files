@@ -1,0 +1,19 @@
+[SQL]
+crt=CREATE TABLE %cursor%
+dr=DROP
+tb=TABLE
+ife=IF EXISTS %cursor%
+ifn=IF NOT EXISTS %cursor%
+wo=WITHOUT
+ri=ROWID
+sl=SELECT * FROM %cursor%
+sela=SELECT * FROM 
+wh=WHERE
+ob=ORDER BY %cursor%
+up=UPDATE SET %cursor%
+cp=CREATE PROCEDURE %cursor%
+pk=PRIMARY KEY
+fk=FOREIGN KEY (%cursor%) REFERENCES %cursor%()
+int=INTEGER
+inu=INTEGER UNSIGNED
+nn=NOT NULL %cursor%
