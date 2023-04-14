@@ -1,0 +1,17 @@
+[HTML]
+table=<table>\n\t<tr>\n\t\t<td>%cursor%</td>\n\t</tr>\n</table>
+dc=<div class="%cursor%">\n\t\n</div>
+html5=<!DOCTYPE html>\n<html>\n\t<head>\n\t\t<meta charset="utf-8" />\n\t</head>\n\t<body>%cursor%</body>\n</html>
+scr=<script type="text/javascript">\n\t%cursor%\n</script>
+scr2=<script type="text/javascript" src="%cursor%"></script>
+dl=<dl>\n\t<dt>%cursor%</dt>\n\t<dd>%cursor%</dd>\n</dl>
+ul=<ul>\n\t<li>%cursor%</li>\n\t<li></li>\n</ul>
+dv=<div>%cursor%</div>
+dv2=<div>\n\t<div>%cursor%\n\t</div>\n</div>
+lbl=<label>\n\t<input type="%cursor%" name="" id="" />\n\t</label>
+int=<input type="" id="" />
+inm=<input type="email" id="" />
+pwd=<input type="password" id="" />
+txt=<textarea>%cursor%</textarea>
+but=<button>%cursor%</button>
+br=<br />
