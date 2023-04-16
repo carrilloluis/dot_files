@@ -1,0 +1,9 @@
+[Lua]
+if=if %cursor% then\n\t\n\nend
+ifn=if not %cursor% then\n\t\n\nend
+fun=function %cursor%()\nend
+fur=function %cursor%()\n\treturn\nend
+lo=local %cursor%
+else=if %cursor% then\n\t\nelse\n\t\nend
+while=while %cursor% do\n\t\nend
+for=for i=1, $cursor% do\n\t\nend
